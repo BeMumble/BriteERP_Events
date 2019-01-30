@@ -23,7 +23,7 @@ import static org.testng.Assert.fail;
 //rlkdsfjsdfkljsg
 //fl;ds;lsdfkl;d
 public class BrowserUtils {
-	private String test="";
+	private String test="ghjkljhgjkm,";
 
     public static void wait(int secs) {
         try {
