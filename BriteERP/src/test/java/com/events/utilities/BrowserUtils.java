@@ -27,6 +27,7 @@ public class BrowserUtils {
 
     public static void wait(int secs) {
         try {
+        	//fghbjnk
             Thread.sleep(1000 * secs);
         } catch (InterruptedException e) {
         }
@@ -51,7 +52,7 @@ public class BrowserUtils {
 
         // full path to the screenshot location
         String target = System.getProperty("user.dir") + "/test-output/Screenshots" + name + time + ".png";
-
+//fdghjnkml,
         File finalDestination = new File(target);
 
         // save the screenshot to the path given
