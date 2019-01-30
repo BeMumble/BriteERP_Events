@@ -1,6 +1,6 @@
 package com.events.tests.smoke_tests;
 
-public class randomClass {
+public class smoke_Test {
 
 
     public static void main(String[] args) {
