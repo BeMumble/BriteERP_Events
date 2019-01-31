@@ -1,14 +1,11 @@
-package com.events.tests.functional_tests;
+package com.events.tests.smoke_tests;
 
 import org.testng.annotations.Test;
 
-public class searchFunctionalityTest {
-
+public class listButtonTest {
 	  @Test
 	  public void TestCase1() {
 	  }
-	  
-	 
 	  @Test
 	  public void TestCase2() {
 	  }
